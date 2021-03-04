@@ -1,5 +1,5 @@
 =================================
-QUASAR NETMASTER [1.0]
+QUASAR NETVIEW [1.0]
 >>> Application developed by Kayky Vitor Cruz and licensed under GNU General Public License, version 3(GPLv3):
 
 >> The source code must be public whenever a distribution of the software is made.That is, if you launch a product
