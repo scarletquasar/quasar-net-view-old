@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\obj\Debug\Quasar Netview.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\bin\Debug\Quasar Netview.exe
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\bin\Debug\Quasar Netview.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\obj\Debug\Quasar Netview.exe
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\obj\Debug\Quasar Netview.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\obj\Debug\Quasar_Netview.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\obj\Debug\Quasar Netview.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\Quasar Netview\Quasar Netview\bin\Debug\Quasar Netview.exe.config

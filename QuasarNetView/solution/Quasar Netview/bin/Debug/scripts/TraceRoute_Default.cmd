@@ -1,0 +1,1 @@
+tracert -h 30 www.google.com.br >> ./scripts/TraceRoute_Default.tmp

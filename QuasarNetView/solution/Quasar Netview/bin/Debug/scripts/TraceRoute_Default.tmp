@@ -1,0 +1,18 @@
+
+Rastreando a rota para www.google.com.br [216.58.202.195]
+com no m ximo 30 saltos:
+
+  1    <1 ms    <1 ms     1 ms  192.168.0.1 
+  2    10 ms     3 ms     3 ms  100.90.156.1 
+  3     7 ms     7 ms     9 ms  10.100.150.53 
+  4     3 ms     2 ms     2 ms  100.64.0.2 
+  5     3 ms     3 ms     *     100.64.0.1 
+  6     9 ms     5 ms     4 ms  179.96.108.106 
+  7    36 ms    35 ms    35 ms  spo-eqnx-sp4-borda-2.g8.net.br [179.96.127.121] 
+  8    33 ms    33 ms    33 ms  spo-eqnx-sp4-borda-1.g8.net.br [179.96.127.63] 
+  9    34 ms    33 ms    35 ms  74.125.146.190 
+ 10    36 ms    35 ms    35 ms  108.170.245.161 
+ 11    35 ms    35 ms    35 ms  72.14.239.25 
+ 12    36 ms    36 ms    36 ms  gru06s31-in-f195.1e100.net [216.58.202.195] 
+
+Rastreamento conclu¡do.
